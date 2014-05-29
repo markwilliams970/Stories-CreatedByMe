@@ -2,9 +2,6 @@ StoriesByMe
 =========================
 
 ## Overview
-
-
-## Overview
 This App will search for any Stories within the Current Project Scoping (projectScopeDown = true, always) that were
 Created by the currently logged in User.
 ![Stories-CreatedByMe](https://raw.githubusercontent.com/markwilliams970/Stories-CreatedByMe/master/images/screenshot1.png)
